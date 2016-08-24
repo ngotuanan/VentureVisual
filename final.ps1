@@ -1,4 +1,4 @@
-﻿#Whenever you start PowerCLI, you see:
+﻿#Whenever you start PowerCLI, you see :
 #File C:\Program Files (x86)\VMware\Infrastructure\vSphere PowerCLI\Scripts\Initialize-PowerCLIEnvironment.ps1 cannot be loaded 
 #because the execution of scripts is disabled on this system. Please see "get-help about_signing" for more details.
 #At line:1 char:2
